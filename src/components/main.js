@@ -23,8 +23,8 @@ function Main() {
   useEffect(() => {
       fetchData()
       async function fetchData() {
-          //const res = await fetch (baseURL, header, observer);
-          const res = await fetch(baseURL, { header }, { observer });
+          const res = await fetch (baseURL, header, observer);
+          // const res = await fetch(baseURL, { header }, { observer });
           const data = await res.json()
           setmoonData(data);
           console.log(data);
