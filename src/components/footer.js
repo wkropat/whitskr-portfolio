@@ -6,7 +6,7 @@ function Footer() {
     return (
         <main>
             <section className="contact" id="contact">
-                <h6>Contact</h6>
+                <h3>Contact</h3>
                 <ul>
                     <li><a href="mailto:wkropat@gmail.com" target="_blank" rel="noreferrer">wkropat@gmail.com</a></li>
                     <li><a href="https://github.com/wkropat" target="_blank" rel="noreferrer">GitHub</a></li>
