@@ -7,7 +7,7 @@ I made this portfolio showing my work over the last few months learning full sta
 
 [Github Repo](github.com/wkropat)
 [Heroku Deployed Website](whitskr-portfolio.herokuapp.com)
-
+(Heroku Deployed Website)[whitskr-portfolio.herokuapp.com]
 ## Acceptance Criteria
 
 
