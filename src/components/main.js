@@ -8,19 +8,19 @@ const projects = [
     name: 'RecipeBuilder',
     description: 'Get recipes based on ingredients in your kitchen',
     url: "https://github.com/RecipeBuilder",
-    img: "../assets/recipeBuilder.jpg"
+    img: "/recipeBuilder.jpg"
   },
   {
     name: 'Andromeda',
     description: 'Space Weather Alert App',
     url: "https://github.com/lets-play-chess",
-    img: "../assets/andromeda.jpg"
+    img: "/andromeda.jpg"
   },
   {
     name: 'Chess',
     description: 'Live Chess App',
     url: "https://github.com/Andromeda-App",
-    img: "../assets/playChess.jpg"
+    img: "/playChess.jpg"
   },
 ];
 function Main() {

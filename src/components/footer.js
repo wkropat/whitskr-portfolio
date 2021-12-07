@@ -19,7 +19,7 @@ function Footer() {
                 <a href="https://www.linkedin.com/in/wkropat" target="_blank" rel="noreferrer">LinkedIn</a>
                 </Col>
                 <Col>
-                <a href="./Assets/files/wkropat-resume.pdf" target="_blank" rel="noreferrer">Resume</a>
+                <a href="/wkropat-resume.pdf" target="_blank" rel="noreferrer">Resume</a>
                 </Col>
             </Row>
 
