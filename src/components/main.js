@@ -28,12 +28,19 @@ function Main() {
 
   return (
     <Container className="text-center" fluid>
-      <Row><Card>A full stack developer in training.</Card></Row>
-      <br/>
       <Row>
+        <Card>
+          <Card.Title>About Me</Card.Title>
+          <Card.Text>
+            A full stack developer in training.
+          </Card.Text>
+        </Card>
+      </Row>
+      <br />
+      <Row id="portfolio">
         {projects.map((project) => (
           <Col>
-          <Project name={project.name} desc={project.description} url={project.url} img={project.img}></Project>
+            <Project name={project.name} desc={project.description} url={project.url} img={project.img}></Project>
           </Col>
         ))}
       </Row>

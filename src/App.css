@@ -37,3 +37,6 @@
     transform: rotate(360deg);
   }
 }
+ #headshot {
+   max-width: 50px;
+ }

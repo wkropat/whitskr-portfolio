@@ -1,6 +1,6 @@
 {
-  "name": "whitskr-portfolio",
-  "homepage": "https://wkropat.github.io",
+  "name": "Whitney's Portfolio",
+  "homepage": "whitskr-portfolio.herokuapp.com",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
